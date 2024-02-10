@@ -1,0 +1,82 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+h1{
+    font-size:21px;
+    margin-top:-10px;
+}
+
+h2{
+    font-size:16px;
+    margin-bottom:-10px;
+}
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+
+.full{width:100%;}
+.gap{height:30px;width:100%;clear:both;display:block;}
+.footer{background: #1a538e!important;height:auto;padding-bottom:30px;position:relative;width:100%;color: #ffe600;border-bottom:1px solid #CCCCCC;border-top:1px solid #DDDDDD;}
+.footer p{margin:0;}
+.footer img{max-width:100%;}
+.footer h4{border-bottom:1px solid #BAC1C8;color:#ffffff;font-size:16px;font-weight:600;line-height:27px;padding:40px 0 10px;text-transform:uppercase;}
+.footer h4 a{color:#ffffff;font-size:16px;font-weight:600;padding:40px 0 10px;text-transform:uppercase;}
+.footer h4 a:hover{color:#ffffff;font-size:16px;font-weight:600;padding:40px 0 10px;text-transform:uppercase;text-decoration:none;}
+.footer ul{font-size:16px;list-style-type:none;margin-left:0;padding-left:0;margin-top:15px;color:#7F8C8D;}
+.footer ul li a{padding:0 0 5px 0;display:block;}
+.footer a{color: #ffffff;}
+.footer a:hover{color:#dfe7ea; text-decoration:none;}
+.footer hr{margin-top:1px;margin-bottom:1px;border:0;border-top:1px solid rgba(255, 255, 255, 0.1);}
+.bg-gray{background-image:-moz-linear-gradient(center bottom, #BBBBBB 0%, #F0F0F0 100%);box-shadow:0 1px 0 #B4B3B3;}
+.footer-bottom{background:#E3E3E3;border-top:1px solid #DDDDDD;padding-top:10px;padding-bottom:50px;}
+.footer-bottom p.pull-left{padding-top:6px;}
+.payments{font-size:1.5em;}
+
+.categorya-z-1
+{
+    justify-content: center;
+    width:18px;
+    max-width:18px;
+    height:30px;
+    font-size: 14px;
+    text-align:center;
+    border: 1px groove #ffffff;
+    color:black;
+    background-color:white;
+}    
+.categorya-z-2
+{
+    justify-content: center;
+    width:18px;
+    max-width:18px;
+    height:30px;
+    font-size: 14px;
+    text-align:center;
+    border: 1px groove #ffffff;
+    color:black;
+    background-color:#fffcc8;
+}    
